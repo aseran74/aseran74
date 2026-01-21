@@ -50,11 +50,11 @@ I connect **frontend and backend** seamlessly using:
 I've worked on and launched multiple projects that have been reviewed by incubators and early-stage ecosystems, gaining hands-on experience in **idea validation, MVP development, and pitch preparation**.
 
 ### Projects:
-- **Holydeo.com** — early-stage digital platform
-- **Quincenalia.com** — product focused on recurring value & engagement
-- **Jubilalia.com** — age-focused solution with usability-first approach
-- **Rutify.app** — mobile-first product built with MVP principles (Capacitor)
-
+-### Projects:
+- [**Holydeo.com**](https://holydeo.com) — early-stage digital platform
+- [**Quincenalia.com**](https://quincenalia.com) — product focused on recurring value & engagement
+- [**Jubilalia.com**](https://jubilalia.com) — age-focused solution with usability-first approach
+- [**Rutify.app**](https://rutify.app) — mobile-first product built with MVP principles (Capacitor)
 Across these projects, I've contributed to:
 - MVP definition & scope reduction
 - Frontend architecture & UI decisions
