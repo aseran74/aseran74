@@ -1,4 +1,9 @@
+
+
+
 ## Hi there 👋
+<img width="800" height="800" alt="1757843709323" src="https://github.com/user-attachments/assets/1495fc4e-e7de-4acc-bc7d-f610016df6c4" />
+
 # 👋 Álvaro Serrano Sánchez
 
 💻 **Frontend Developer** · Design-first · MVP-focused  
