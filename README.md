@@ -2,7 +2,6 @@
 
 
 ## Hi there 👋
-<img width="800" height="800" alt="1757843709323" src="https://github.com/user-attachments/assets/1495fc4e-e7de-4acc-bc7d-f610016df6c4" />
 
 # 👋 Álvaro Serrano Sánchez
 
@@ -76,3 +75,5 @@ I also drive for Uber, which reinforces daily skills in **time management, auton
 
 📧 [alvaroserr@gmail.com](mailto:alvaroserr@gmail.com)  
 📱 +34 616 462 861
+
+
